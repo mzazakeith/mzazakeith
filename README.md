@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Docker and Kubernetes**
 
-- 💬 Ask me about **Solidity, MERN**
+- 💬 Ask me about **Solidity, MERN, Spring Boot**
 
 - 📫 How to reach me **mzazakeith@gmail.com**
 
