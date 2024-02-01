@@ -1,7 +1,7 @@
 [//]: # ([![MasterHead]&#40;https://raw.githubusercontent.com/mzazakeith/mzazakeith/master/bannerGH.png&#41;]&#40;https://github.com/mzazakeith&#41;)
 <h2 align="center">Hi 👋 I'm Keith</h2>
 <h3 align="center">A Fullstack & Blockchain Developer</h3>
-
+<img align="right" alt="Coding" width="350" height="250" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 
 - 🔭 I’m currently working on [Wasoko](https://wasoko.com/)
 
@@ -95,4 +95,3 @@
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
   </a>
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mzazakeith&show_icons=true&locale=en" alt="mzazakeith" /></p>
