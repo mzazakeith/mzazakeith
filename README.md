@@ -1,6 +1,6 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+<!-- <div align="center"> -->
+<!-- <img src="https://raw.githubusercontent.com/mzazakeith/mzazakeith/master/bannerGH.png" align="center" style="width: 100%" /> -->
+<!-- </div>   -->
   
 
 ### <div align="center">Hi 👋 I'm Keith</div>  
@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning more skills in DevOps  
   
 
-- ❓ Ask me about anything related to MERN stack , Springboot and related technologies  
+- ❓ Ask me about anything related to MERN stack, Springboot and related technologies  
   
 
 - 📫How to reach me [mzazakeith@gmail.com](mailto:mzazakeith@gmail.com)  
@@ -102,11 +102,4 @@
 <!-- ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mzazakeith&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   -->
 
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
+<br/>   
