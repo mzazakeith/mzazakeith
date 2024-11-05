@@ -9,7 +9,7 @@
 <!-- - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)   -->
   
 
-- 🌱 I’m currently learning more skills in DevOps  
+- 🌱 I’m currently working on novati.tech/
   
 
 - ❓ Ask me about anything related to MERN stack, Springboot and related technologies  
