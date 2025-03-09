@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to MERN stack, Springboot and related technologies  
   
 
-- 📫 How to reach me [mzazakeith@gmail.com](mailto:mzazakeith@gmail.com)  
+- 📫 How to reach me [mzazakeith@gmail.com](mailto:mzaza@zayah.tech)  
   
 
 <br/>  
