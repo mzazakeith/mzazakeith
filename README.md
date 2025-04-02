@@ -17,9 +17,6 @@
 
 - 📫 How to reach me [mzazakeith@gmail.com](mailto:mzaza@zayah.tech)  
 
-- Personal Portfolio: [Click here](https://mzazakeith.github.io/portefeuille/)
-  
-
 <br/>  
 
 
