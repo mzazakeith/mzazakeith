@@ -12,7 +12,7 @@
 - 🌱 I’m currently working on [zayah.tech](https://zayah.tech/)
   
 
-- ❓ Ask me about anything related to MERN stack, Springboot and related technologies  
+- ❓ Ask me about anything related to MERN stack, DevOps and related technologies  
   
 
 - 📫 How to reach me [mzazakeith@gmail.com](mailto:mzaza@zayah.tech)  
