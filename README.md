@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to MERN stack, Python, DevOps and related technologies  
   
 
-- 📫 How to reach me [mzazakeith@gmail.com](mailto:mzaza@zayah.tech)  
+- 📫 How to reach me [mzaza@zayah.tech](mailto:mzaza@zayah.tech)  
 
 - My [portfolio](https://portefeuille-tau.vercel.app/)
 
